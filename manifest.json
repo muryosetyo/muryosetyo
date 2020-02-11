@@ -1,0 +1,38 @@
+{
+  "name": "Muryo Setyo",
+  "short_name": "MURYO SETYO",
+  "start_url": "https://www.muryosetyo.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "DESKRIPSI BLOG ANDA",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-vIMfoLEv88k/XkIkZHp0xXI/AAAAAAAADVI/k6Y8j4cGUe8R0KQ4fU5c8kcjoqAKXx-kgCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dmLGA2g4xag/XkIkZUeDWcI/AAAAAAAADVM/2GDNNf5g5lwq4lSqGpN6PSFShMP70xxRACLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3DJIBqoxlnM/XkIkZZgjsJI/AAAAAAAADVQ/7T8A_lUB1aMOUdfUd9fwyStTJDjSK21XgCLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-XiNYaG8W5lo/XkIkX7vWYpI/AAAAAAAADU4/YQQg-BAR6n4A60Cw0TwWWVbku2yiNxKsACLcBGAsYHQ/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z3DBGR3nDX0/XkIkX-e9j3I/AAAAAAAADU8/oLFq5z9-FtY-353U0bSspTaVEsA9-meCQCLcBGAsYHQ/s1600/168%2Bx%2B168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-yElIX7QMGa8/XkIkY0dIFgI/AAAAAAAADVE/6MT6peNojXEyfvI6KyvaRjDf3Xwp1ihjwCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V7ORU2gyotw/XkIkX7YE-2I/AAAAAAAADVA/GyZpJkpDNb83O4h9rprapGNSx6JQf2rTwCLcBGAsYHQ/s1600/512%2Bx%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
